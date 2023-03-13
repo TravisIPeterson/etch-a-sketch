@@ -1,0 +1,1 @@
+Interactive Etch-A-Sketch in browser. Project made coding with Java, focusing mainly on DOM manipulation, per guide found at https://www.theodinproject.com/lessons/foundations-etch-a-sketch
